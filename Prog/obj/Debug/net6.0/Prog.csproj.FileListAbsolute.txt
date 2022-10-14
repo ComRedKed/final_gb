@@ -1,0 +1,15 @@
+/Volumes/C0nRedKed/learning_projects/Prog/bin/Debug/net6.0/Prog
+/Volumes/C0nRedKed/learning_projects/Prog/bin/Debug/net6.0/Prog.deps.json
+/Volumes/C0nRedKed/learning_projects/Prog/bin/Debug/net6.0/Prog.runtimeconfig.json
+/Volumes/C0nRedKed/learning_projects/Prog/bin/Debug/net6.0/Prog.dll
+/Volumes/C0nRedKed/learning_projects/Prog/bin/Debug/net6.0/Prog.pdb
+/Volumes/C0nRedKed/learning_projects/Prog/obj/Debug/net6.0/Prog.csproj.AssemblyReference.cache
+/Volumes/C0nRedKed/learning_projects/Prog/obj/Debug/net6.0/Prog.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/C0nRedKed/learning_projects/Prog/obj/Debug/net6.0/Prog.AssemblyInfoInputs.cache
+/Volumes/C0nRedKed/learning_projects/Prog/obj/Debug/net6.0/Prog.AssemblyInfo.cs
+/Volumes/C0nRedKed/learning_projects/Prog/obj/Debug/net6.0/Prog.csproj.CoreCompileInputs.cache
+/Volumes/C0nRedKed/learning_projects/Prog/obj/Debug/net6.0/Prog.dll
+/Volumes/C0nRedKed/learning_projects/Prog/obj/Debug/net6.0/refint/Prog.dll
+/Volumes/C0nRedKed/learning_projects/Prog/obj/Debug/net6.0/Prog.pdb
+/Volumes/C0nRedKed/learning_projects/Prog/obj/Debug/net6.0/Prog.genruntimeconfig.cache
+/Volumes/C0nRedKed/learning_projects/Prog/obj/Debug/net6.0/ref/Prog.dll
